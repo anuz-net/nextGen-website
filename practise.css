@@ -1,0 +1,11 @@
+*{
+    font-family: Poppins, sans-serif;
+    scroll-behavior: smooth;
+}
+/* Target dropdown inside nav */
+.nav .dropdown-menu {
+    width: 500px; /* Adjust width */
+  }
+
+
+  
